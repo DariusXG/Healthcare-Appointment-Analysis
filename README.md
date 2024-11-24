@@ -1,4 +1,4 @@
-# Healthcare-Appointment-Analysis# Healthcare Appointment Analysis Project
+# Healthcare Appointment Analysis Project
 
 ## Overview
 A data analysis project examining healthcare appointment patterns, wait times, and patient demographics using Python and data visualization techniques.
