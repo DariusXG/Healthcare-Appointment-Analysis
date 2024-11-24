@@ -3,11 +3,16 @@
 ## Overview
 A data analysis project examining healthcare appointment patterns, wait times, and patient demographics using Python and data visualization techniques.
 
-## Dataset Features
-- Appointment details
+## Data Generation
+This project uses synthetic healthcare appointment data generated using Python. The data generation script is available in the repository to ensure reproducibility.
+
+Sample data features:
+- 1000 appointments
+- 5 departments (Cardiology, Primary Care, Pediatrics, Orthopedics, Neurology)
 - Patient demographics
+- Appointment timing
 - Wait times
-- No-show rates
+- Insurance types
 - Insurance types
 
 ## Analysis Includes
@@ -22,7 +27,6 @@ A data analysis project examining healthcare appointment patterns, wait times, a
 - Matplotlib
 - Seaborn
 - Google Colab
-- Future: SQL, Power BI/Tableau
 
 ## Key Visualizations
 ![image](https://github.com/user-attachments/assets/6e3068da-2daf-4a64-8896-e7d89c69cf0a)
